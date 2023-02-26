@@ -1,5 +1,6 @@
 # LATIHAN2DPBO2023
-Latihan 2 Praktikum Mata Kuliah Desain dan Pemrograman Berorientasi Objek
+Latihan 2 Praktikum Mata Kuliah Desain dan Pemrograman Berorientasi Objek.
+Program untuk menampilkan data mahasiswa secara lengkap.
 
 Saya Najma Qalbi Dwiharani dengan NIM 2102843 mengerjakan soal Latihan 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
@@ -58,6 +59,7 @@ Program ini akan menampilkan informasi/atribut terkait dengan Mahasiswa karena M
 ## Alur Program
 
 ### Input Data Mahasiswa
+Pada program C++ dan Python user akan diminta untuk meng-input jumlah mahasiswa beserta data masing-masing mahasiswa tersebut. Setiap setelah meminta masukan satu data mahasiswa dari user, program akan menginstansiasi objek mahasiswa dan memasukkannya ke dalam list mahasiswa.
 
   <img
   src="CPP/ss/input_code.png"
@@ -66,8 +68,11 @@ Program ini akan menampilkan informasi/atribut terkait dengan Mahasiswa karena M
   <img
   src="CPP/ss/input.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+Para program Java dan PHP data mahasiswa dimasukkan secara hardcode.
 
 ### Menampilkan Data Mahasiswa
+Program akan menampilkan list data mahasiswa beserta atribut-atributnya, termasuk atribut dari parentnya.
 
   <img
   src="CPP/ss/hasil_code.png"
